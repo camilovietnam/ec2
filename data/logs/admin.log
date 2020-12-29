@@ -1,0 +1,8 @@
+2020/12/29 13:45:04 [/control/index.php] access error. from 172.25.0.1
+2020/12/29 13:45:04 [/control/index.php] login: user=admin(2) auth=0 lastlogin= sid= from 172.25.0.1
+2020/12/29 13:45:04 [/control/home.php] access : user=admin auth=0 sid=1ac7b6c0 from 172.25.0.1
+2020/12/29 13:45:11 [/control/logout.php] access : user=admin auth=0 sid=1ac7b6c0 from 172.25.0.1
+2020/12/29 13:45:11 [/control/logout.php] logout : user=admin auth=0 sid=1ac7b6c0 from 172.25.0.1
+2020/12/29 13:45:14 [/control/index.php] access error. from 172.25.0.1
+2020/12/29 13:45:14 [/control/index.php] login: user=admin(2) auth=0 lastlogin=2020-12-29 13:45:04 sid= from 172.25.0.1
+2020/12/29 13:45:14 [/control/home.php] access : user=admin auth=0 sid=2ec32612 from 172.25.0.1

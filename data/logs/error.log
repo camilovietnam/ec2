@@ -1,0 +1,3 @@
+2020/12/29 13:38:08 [/index.php] Warning(E_WARNING): Invalid argument supplied for foreach() on [/var/www/html/data/module/Net/URL.php(178)] from 172.25.0.1
+2020/12/29 13:38:09 [/index.php] Warning(E_WARNING): Invalid argument supplied for foreach() on [/var/www/html/data/module/Net/URL.php(178)] from 172.25.0.1
+2020/12/29 13:39:12 [/entry/index.php] Warning(E_USER_WARNING): メール送信に失敗しました。[Failed to connect to 127.0.0.1:1025 [SMTP: Failed to connect socket: Connection refused (code: -1, response: )]] on [/var/www/html/data/class/SC_SendMail.php(330)] from 172.25.0.1
